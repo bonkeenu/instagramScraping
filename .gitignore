@@ -2,12 +2,15 @@
 .env
 
 # ごみファイル
-./chrome.js
-./test.mjs
+chrome.js
+test.mjs
 
 # 自分用系
-./image/*
-./logs/*
+image/
+logs/
 
 #node_module
-./node_modules/*
+node_modules/
+
+## 自身
+!.gitignore
