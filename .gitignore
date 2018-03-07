@@ -1,0 +1,13 @@
+# 環境変数
+.env
+
+# ごみファイル
+./chrome.js
+./test.mjs
+
+# 自分用系
+./image/*
+./logs/*
+
+#node_module
+./node_modules/*
